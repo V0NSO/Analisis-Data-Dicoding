@@ -1,7 +1,7 @@
 # Submission Dicoding "Belajar Analisis Data dengan Python"
 
 ## Preview
-![Bike Sharing Dashboard Streamlit Preview]("https://github.com/V0NSO/Analisis-Data-Dicoding/blob/main/1.png")
+![Bike Sharing Dashboard Streamlit Preview](https://github.com/V0NSO/Analisis-Data-Dicoding/blob/main/1.png)
 
 ## Deskripsi
 
